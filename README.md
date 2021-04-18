@@ -18,8 +18,6 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://alextim.github.io/upptime)
-
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
