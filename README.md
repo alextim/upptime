@@ -1,6 +1,6 @@
 # Performance and availability monitoring
 
-## <!--live status-->
+## <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/alextim/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/alextim/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
