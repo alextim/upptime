@@ -12,7 +12,11 @@ sites:
     url: https://igryg.com
     icon: https://igryg.com/favicon.ico
     maxResponseTime: 5000
-
+  - name: Climbing in Turkey
+    url: https://climbing-in-turkey.netlify.app
+    icon: https://climbing-in-turkey.netlify.app/favicon.ico
+    maxResponseTime: 5000
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
