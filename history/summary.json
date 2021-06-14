@@ -34,5 +34,23 @@
     "timeMonth": 578,
     "timeYear": 602,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Climbing in Turkey",
+    "url": "https://climbing-in-turkey.netlify.app",
+    "icon": "https://climbing-in-turkey.netlify.app/favicon.ico",
+    "slug": "climbing-in-turkey",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
