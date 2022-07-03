@@ -1,7 +1,7 @@
 url: https://climbing-in-turkey.netlify.app
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2022-07-02T23:12:32.560Z
+status: down
+code: 500
+responseTime: 3130
+lastUpdated: 2022-07-03T18:38:02.583Z
 startTime: Mon Jun 14 2021 09:36:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
